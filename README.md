@@ -59,3 +59,10 @@ The easing method and conceptual inspiration were adapted from **Daniel Shiffman
 Processing Python Mode Reference: https://py.processing.org/reference/
 
 ---
+
+## 5. License
+MIT License © 2025 Luofei Wang  
+This work is shared for educational use under the *52685 Working with Data and Code* subject, University of Technology Sydney.  
+Reuse and adaptation are permitted with author attribution.
+
+---
