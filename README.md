@@ -12,6 +12,7 @@ Developed as part of the *52685 Working with Data and Code* subject at the **Uni
 
 ## Demo Image
 [Digital Garden: Breathing Emotions1](demo1.png)
+
 [Digital Garden: Breathing Emotions2](demo2.png)
 
 *Figure 1. The “breathing flower” visualizes emotional states through rhythmic expansion and color transitions.*
