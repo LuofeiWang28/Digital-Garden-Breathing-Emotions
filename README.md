@@ -50,17 +50,3 @@ The easing method and conceptual inspiration were adapted from **Daniel Shiffman
 Processing Python Mode Reference: https://py.processing.org/reference/
 
 ---
-
-## 5. Known Issues
-- When the breathing speed is set very high, the animation may flicker slightly.  
-- The HUD text may shift if the window size changes.  
-- Processing (Python mode) must be installed; this code will not run in standard Python IDEs.
-
----
-
-## 6. License
-MIT License © 2025 Luofei Wang  
-This work is shared for educational use under the *52685 Working with Data and Code* subject, University of Technology Sydney.  
-Reuse and adaptation are permitted with author attribution.
-
----
