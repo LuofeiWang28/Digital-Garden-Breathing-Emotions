@@ -26,11 +26,11 @@ Developed as part of the *52685 Working with Data and Code* subject at the **Uni
 ---
 
 ## 3. Code Overview
-- **setup()** — Initialises the canvas, colour mode, and starting emotion.  
-- **draw()** — Handles time-based animation, easing, and colour interpolation.  
+- **setup()** — Initializes the canvas, color mode, and starting emotion.  
+- **draw()** — Handles time-based animation, easing, and color interpolation.  
 - **keyPressed()** — Enables interactive control of emotion, speed, and rotation.  
-- **set_emotion()** — Switches between colour palettes and initiates smooth transitions.  
-- **Global Variables** — Manage breathing cycle (`period`), pulse speed, colour states, and rotation.  
+- **set_emotion()** — Switches between color palettes and initiates smooth transitions.  
+- **Global Variables** — Manage breathing cycle (`period`), pulse speed, color states, and rotation.  
 
 The code demonstrates key programming concepts:
 - Variables and constants for state management  
@@ -42,7 +42,7 @@ The code demonstrates key programming concepts:
 ---
 
 ## 4. Originality and References
-All code structure and logic were written by **Luofei Wang (2025)**.  
+All code structure and logic were written by **Luofei Wang (25239575)**.  
 The easing method and conceptual inspiration were adapted from **Daniel Shiffman’s _The Nature of Code_ (Chapter 3: Oscillation)**.  
 - Source: https://natureofcode.com/book/chapter-3-oscillation/  
 - Accessed: 5 Oct 2025  
