@@ -10,6 +10,13 @@ Developed as part of the *52685 Working with Data and Code* subject at the **Uni
 
 ---
 
+## Demo Image
+[Digital Garden: Breathing Emotions](docs/screenshots/demo.png)
+
+*Figure 1. The “breathing flower” visualizes emotional states through rhythmic expansion and color transitions.*
+
+---
+
 ## 2. How to Run
 1. Open **Processing** and switch to **Python Mode**.  
 2. Download this repository or clone it using Git.  
