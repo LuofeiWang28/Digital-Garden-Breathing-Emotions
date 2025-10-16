@@ -53,7 +53,6 @@ The code demonstrates key programming concepts:
 All code structure and logic were written by **Luofei Wang (25239575)**.  
 The easing method and conceptual inspiration were adapted from **Daniel Shiffman’s _The Nature of Code_ (Chapter 3: Oscillation)**.  
 - Source: https://natureofcode.com/book/chapter-3-oscillation/  
-- Accessed: 5 Oct 2025  
 
 Processing Python Mode Reference: https://py.processing.org/reference/
 
