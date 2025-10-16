@@ -10,7 +10,7 @@ Developed as part of the *52685 Working with Data and Code* subject at the **Uni
 
 ---
 ## Demo Animation
-[Digital Garden Animation](demo 1.gif)
+[Digital Garden Animation](demo1.gif)
 
 *Figure 1. The breathing flower visualizes emotional states through rhythmic motion and color transitions.*
 
