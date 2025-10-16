@@ -9,6 +9,10 @@ It demonstrates understanding of **time-based animation, easing functions, color
 Developed as part of the *52685 Working with Data and Code* subject at the **University of Technology Sydney**.
 
 ---
+## Demo Animation
+![Digital Garden Animation](docs/screenshots/demo.gif)
+
+*Figure 1. The breathing flower visualizes emotional states through rhythmic motion and color transitions.*
 
 ## Demo Image
 [Digital Garden: Breathing Emotions 1](demo 1.gif)
