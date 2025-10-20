@@ -1,6 +1,6 @@
-# 🌿 Digital Garden: Breathing Emotions
+# Digital Garden: Breathing Emotions
 
-> 🎨 *An interactive generative art project that visualizes emotions through rhythm, color, and motion.*
+ *An interactive generative art project that visualizes emotions through rhythm, color, and motion.*
 
 ---
 
@@ -19,7 +19,7 @@
 
 ---
 
-## 🪷 Overview
+## Overview
 **Digital Garden: Breathing Emotions** is an interactive artwork built with **Processing (Python Mode)** for the  
 *52685 Working with Data and Code* subject at the **University of Technology Sydney (UTS)**.
 
@@ -35,7 +35,7 @@ changing its color to represent different emotional states:
 
 ---
 
-## 💡 Concept
+## Concept
 This generative art prototype explores how code can express *emotion* through **motion**, **timing**, and **interaction**.  
 The flower’s rhythm symbolizes breathing — a natural motion that conveys calmness and emotion through algorithmic flow.  
 
@@ -44,7 +44,7 @@ and explores how mathematical logic (e.g., sine waves, easing functions) can sim
 
 ---
 
-## ✨ Features
+## Features
 ✔️ Smooth breathing motion based on `sin()` and `millis()` functions  
 ✔️ Gradual color transitions between emotional states using `lerpColor()`  
 ✔️ Interactive controls to change emotion and breathing speed  
@@ -53,18 +53,12 @@ and explores how mathematical logic (e.g., sine waves, easing functions) can sim
 
 ---
 
-## 🎥 Preview
+## Preview
 | Calm | Stress |
 |------|---------|
-| ![Calm Demo](demo1.gif) | ![Stress Demo](demo2.gif) |
+| ![Change color emotion](demo1.gif) | ![Pulse speed](demo2.gif) |
 
 > *The flower breathes and changes color in response to user input.*
-
----
-
-## ⚙️ Installation & Run
-### Requirements
-- **Processing (Python Mode)** → [Download here](https://py.processing.org/download/)
 
 ---
 
