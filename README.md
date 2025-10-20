@@ -4,18 +4,18 @@
 
 ---
 
-## 📖 Table of Contents
-- [Overview](#overview)
-- [Concept](#concept)
-- [Features](#features)
-- [Preview](#preview)
-- [Installation & Run](#installation--run)
-- [Controls](#controls)
-- [Project Structure](#project-structure)
-- [Code Example](#code-example)
-- [References](#references)
-- [Author](#author)
-- [License](#license)
+## Table of Contents
+- Overview
+- Concept
+- Features
+- Preview
+- Controls
+- How to Run
+- Code Overview
+- Project Status
+- References
+- Author
+
 
 ---
 
@@ -54,7 +54,7 @@ and explores how mathematical logic (e.g., sine waves, easing functions) can sim
 ---
 
 ## Preview
-| Calm | Stress |
+| Change color emotion | Pulse speed |
 |------|---------|
 | ![Change color emotion](demo1.gif) | ![Pulse speed](demo2.gif) |
 
