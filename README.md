@@ -9,13 +9,12 @@
 - Concept
 - Features
 - Preview
-- Controls
 - How to Run
+- Controls
 - Code Overview
 - Project Status
 - References
 - Author
-
 
 ---
 
