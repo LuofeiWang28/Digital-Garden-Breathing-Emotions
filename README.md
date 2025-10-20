@@ -54,7 +54,7 @@ and explores how mathematical logic (e.g., sine waves, easing functions) can sim
 ---
 
 ## Preview
-| Change color emotion | Pulse speed |
+| Color emotion | Pulse speed |
 |------|---------|
 | ![Color emotion](demo1.gif) | ![Pulse speed](demo2.gif) |
 
