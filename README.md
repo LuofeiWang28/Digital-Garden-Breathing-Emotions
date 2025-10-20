@@ -56,7 +56,7 @@ and explores how mathematical logic (e.g., sine waves, easing functions) can sim
 ## Preview
 | Change color emotion | Pulse speed |
 |------|---------|
-| ![Change color emotion](demo1.gif) | ![Pulse speed](demo2.gif) |
+| ![Color emotion](demo1.gif) | ![Pulse speed](demo2.gif) |
 
 > *The flower breathes and changes color in response to user input.*
 
